@@ -10,15 +10,14 @@
 </head>
 <body>
 <div class="row">
-    <div class="col-sm-9" ><p>Menu</p>
-
-
+    <div style = "Text-align: center" >
+        <p>Menu</p>
         <div class="row">
             <div class="col-xs-8 col-sm-6">
                 <div>
                     Student
-                    <ul>
-                        <li><a href="/admin/student/create">Student create</a>
+                    <ul>>
+                        <li><a href="/admin/student/create">Student create</a
                         </li>
                         <li><a href="/admin/student/list">Student list</a>
                         </li>
